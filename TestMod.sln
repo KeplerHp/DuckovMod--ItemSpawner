@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItemSpawner", "TestMod\ItemSpawner.csproj", "{5BCB30AD-7A73-40DC-B7A9-BFD93BC1F197}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BCB30AD-7A73-40DC-B7A9-BFD93BC1F197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BCB30AD-7A73-40DC-B7A9-BFD93BC1F197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BCB30AD-7A73-40DC-B7A9-BFD93BC1F197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BCB30AD-7A73-40DC-B7A9-BFD93BC1F197}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F10EB220-E5EE-438B-BBFE-94AAC6D41ED9}
+	EndGlobalSection
+EndGlobal
