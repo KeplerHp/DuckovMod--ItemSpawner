@@ -1,8 +1,10 @@
-### 逃离鸭科夫自制mod---物品生成器
+# 逃离鸭科夫自制mod---物品生成器
 
 #### 使用方法
 
 将ItemSpawner文件夹整体复制到游戏安装目录（例如：F:\steam\steamapps\common\Escape from Duckov\Duckov_Data）下的Mods（没有这个文件夹可以先自己创建）文件夹下
+
+![1761898490245](images/README/1761898490245.png)
 
 打开游戏在mod选项中勾选即可启用
 
