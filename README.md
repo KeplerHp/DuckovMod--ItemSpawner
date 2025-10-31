@@ -16,4 +16,4 @@
 
 #### 代码
 
-mod代码在TestMod文件下，Mod框架可以参考官方给出的[仓库]([xvrsl/duckov\_modding](https://github.com/xvrsl/duckov_modding))
+mod代码在TestMod文件夹下，Mod框架可以参考官方给出的[仓库]([xvrsl/duckov\_modding](https://github.com/xvrsl/duckov_modding))
